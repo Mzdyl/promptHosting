@@ -357,8 +357,6 @@ msg: String
 
       急: 百度贴吧抽象文化, 直接理解为本义即可。
 
-      典: 其实就是“经典”的缩写, 就是说某个人说的话太过于经典、搞笑, 是嘲讽、讽刺
-
       ${config.Bot.CustomInternetLanguageExplains}
 
 17. 仅当 Web Search 工具启用状态等于 `true` 时阅读此项! 如果为 `false`, 请跳过此项!
